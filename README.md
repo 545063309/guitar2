@@ -1,5 +1,5 @@
 -# guitar2
--wjhguitar
+-guitar2
 +# 页面
 +
 +![image1](https://raw.githubusercontent.com/cumtwangjunhui/guitar2/guitarimage/Images/1.PNG)
